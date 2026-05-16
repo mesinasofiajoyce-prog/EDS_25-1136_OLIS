@@ -1,0 +1,6 @@
+#Required Libraries
+Numpy
+Pandas
+Seaborn
+Matplotlib
+Matplotlib Animation
